@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Course - ٌWorkshop Sessions
+# Deep Reinforcement Learning Course - Workshop Sessions
 
 This repository contains materials for the workshop sessions of the DRL course, taught on Sharif University of Technology (SUT), fall 2024.
 Each week covers different aspects of reinforcement learning, from basic concepts to advanced topics.
